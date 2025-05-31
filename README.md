@@ -1,4 +1,5 @@
 A simple overlay that runs in your tray apps and counts down the 3 phases of Night's Tide for Elden Ring Nightreign
+(Use with borderless windowed mode)
 
 - When you run the program it appears in your system tray as an icon, you can also right click and exit it from there
 - Timer appears when you press F9
