@@ -1,3 +1,5 @@
+A simple overlay that runs in your tray apps and counts down the 3 phases of Night's Tide for Elden Ring Nightreign
+
 - Overlay appears when you press F9
 - You can click and drag the timer anywhere
 - Press F9 again to restart it
