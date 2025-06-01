@@ -12,3 +12,4 @@ If F9 doesnt work in-game RUN AS ADMINISTRATOR (If not visible in-game use with 
 [When to Press F9]
 - Matchmaking / Loading	❌ Don't press F9 yet
 - You enter the pod and launch begins	✅ Press F9 now
+- You beat the Day 1 Boss and the new circle appears ✅ Press F9 again
