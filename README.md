@@ -5,11 +5,10 @@ If F9 doesnt work in-game RUN AS ADMINISTRATOR (If not visible in-game use with 
 - When you run the program it appears in your system tray as an icon, you can also right click and exit it from there
 - Timer appears when you press F9
 - You can click and drag the timer anywhere
-- Press F9 again to restart it
+- Press F9 again to restart it, resetting the previous one.
 - Auto-hides after the last phase
-- Clean system tray integration
+- Runs in your tray apps and you can right-click and quit it from there.
 
 [When to Press F9]
-- Matchmaking / Loading	❌ Don't press F9 yet
-- You enter the pod and launch begins	✅ Press F9 now
-- You beat the Day 1 Boss and the new circle appears ✅ Press F9 again
+Press F9 Right after the first cutscene where you get on the bird ends or right after you skip it.
+Additionally, press it again after beating the day 1 boss and you see the new circle appear on your map.
